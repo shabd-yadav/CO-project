@@ -1,4 +1,5 @@
 import sys
+# Project is being done by 3 members of this group
 
 REG = [0] * 32
 REG[2] = 380  # x2 = sp initialized to 380
